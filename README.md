@@ -7,4 +7,7 @@ Considerations
 
 For a testing purpose the frontend will be served from the backend in production, but in development it will be served using a proxy
 
+demo 
+deployed in heroku
+https://mern-app-dep.herokuapp.com/
 
